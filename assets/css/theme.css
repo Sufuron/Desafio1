@@ -1,0 +1,58 @@
+    body{
+        font-family: Arial;
+        background-color: lightgrey;
+        padding: 50px;
+        border-style: solid;
+        border-width: 3px;
+        border-color: black;
+    }
+
+    h1 {
+        background-color: lightgray;
+        padding: 15px;
+        border: 3px solid gray;
+    }
+
+    h1:hover{
+        box-shadow: 0 0 12px 15px rgba(100,100,200,0.3);
+    }
+
+    h3 {
+        background-color: lightgray;    
+    }
+
+    h4{
+        padding: 5px;
+        border: 3px solid gray;
+
+    }
+
+    h4:hover{
+        box-shadow: 0 0 12px 15px rgba(100,100,200,0.3);
+    }
+    
+    i:hover{
+        box-shadow: 0 0 12px 15px rgba(129, 2, 2, 0.3);
+        border: 3px solid gray;
+    }
+    
+
+    p{
+        padding: 18px;
+        border-bottom: 3px;
+        width: 70%;
+    }
+
+
+    img{
+        width: 30%;
+        border: 3px solid gray;
+        background-color: darkgray;
+        padding: 6px;
+        border-radius: 130px;
+        opacity: 0.87;
+        }
+
+    img:hover{
+        box-shadow: 0 0 12px 15px rgba(100,100,200,0.3);
+    }
